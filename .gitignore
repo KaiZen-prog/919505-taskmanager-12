@@ -6,3 +6,10 @@
 *.webp binary
 *.woff binary
 *.woff2 binary
+
+.idea
+node_modules/
+npm-debug.log*
+Thumbs.db
+.vscode/
+
